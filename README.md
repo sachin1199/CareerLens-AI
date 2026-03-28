@@ -1,1 +1,1 @@
-# CareerLens-AI
+# Kaushal-AI
